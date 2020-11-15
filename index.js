@@ -1,3 +1,3 @@
 import React from "react"
 
-export default const App = () => <div>Hello</div>
+export default const Application = () => <div>Hello World!</div>
